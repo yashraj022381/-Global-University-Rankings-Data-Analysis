@@ -1,4 +1,4 @@
-# -Global-University-Rankings-Data-Analysis
+# -Global-University-Rankings-Data-Analysis with Python Numpy & Pandas
 
 This project involves a comprehensive data cleaning, exploration, and analysis workflow on a dataset containing global university rankings (such as those from QS, THE, or similar sources). 
 
