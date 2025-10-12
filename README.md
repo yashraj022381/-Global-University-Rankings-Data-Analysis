@@ -85,7 +85,7 @@ The entire process, from data acquisition to final analysis, is performed using 
      🚀 How to Run the Project:-
     
        1) Clone the Repository:
-           git clone https://github.com/yashrajjagdale/global-university-rankings-analysis.git
+           git clone https://github.com/yashraj022381/global-university-rankings-analysis.git
             cd global-university-rankings-analysis
 
        2) Install Dependencies and Libraries:
